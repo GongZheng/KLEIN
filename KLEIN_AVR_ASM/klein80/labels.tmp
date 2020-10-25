@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.0</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\Administrator\桌面\klein\test\klein</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\M16DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>18</LINE></RESET>
+  <encrypt><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>26</LINE></encrypt>
+  <encrypt_input><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>173</LINE></encrypt_input>
+  <encrypt_start><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>30</LINE></encrypt_start>
+  <add_round_key><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>218</LINE></add_round_key>
+  <key_schedule><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>258</LINE></key_schedule>
+  <substitute_sbox><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>404</LINE></substitute_sbox>
+  <rotatenibbles><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>450</LINE></rotatenibbles>
+  <mixnibbles><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>474</LINE></mixnibbles>
+  <round_key><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>811</LINE></round_key>
+  <cipher><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>814</LINE></cipher>
+  <state><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>813</LINE></state>
+  <decrypt><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>85</LINE></decrypt>
+  <decrypt_input><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>147</LINE></decrypt_input>
+  <key_expansion><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>89</LINE></key_expansion>
+  <inverse_rounds><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>137</LINE></inverse_rounds>
+  <inverse_mixnibbles><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>575</LINE></inverse_mixnibbles>
+  <reverse_round_key><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>335</LINE></reverse_round_key>
+  <temp_state><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>812</LINE></temp_state>
+  <sbox><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>771</LINE></sbox>
+  <multiply2><FILE>C:\Documents and Settings\Administrator\桌面\klein\test\klein\klein.asm</FILE><LINE>790</LINE></multiply2>
+ </LABELS>
+</ASSEMBLER_INFO>

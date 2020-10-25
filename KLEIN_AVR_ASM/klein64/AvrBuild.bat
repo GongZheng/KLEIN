@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\labels.tmp" -fI -W+ie -o "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\klein64.hex" -d "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\klein64.obj" -e "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\klein64.eep" -m "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\klein64.map" "C:\Documents and Settings\Administrator\桌面\klein\test\klein64\klein64.asm"
